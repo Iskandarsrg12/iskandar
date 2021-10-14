@@ -1,4 +1,3 @@
-# iskandar
 Scrip Higgsdomino island 2021
 
 README.md
